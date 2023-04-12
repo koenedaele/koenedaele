@@ -6,8 +6,8 @@ My development focus lies with Python, databases, full text search, linked data,
 
 Have a look at my:
 
-- [https://orcid.org/0000-0002-8153-2978](ORCID)
-- [https://twitter.com/koenedaele](Twitter)
+- [ORCID](https://orcid.org/0000-0002-8153-2978)
+- [Twitter](https://twitter.com/koenedaele)
 
 <!--
 **koenedaele/koenedaele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
