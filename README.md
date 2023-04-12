@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I work for Flanders Heritage as the director for IT and Information Management. While my background is in archaeology, my work is situated on the crossroads of archaeology, built heritage, cultural landscapes, the general cultural heritage domain and IT.
+I work for [Flanders Heritage](https://www.onroerenderfgoed.be) as the director for IT and Information Management. While my background is in archaeology, my work is situated on the crossroads of archaeology, built heritage, cultural landscapes, the general cultural heritage domain and IT.
 
 My development focus lies with Python, databases, full text search, linked data, RDF, thesauri, vocabularies, GIS, R, all in pursuit of wider understanding and automation of cultural heritage.
 
@@ -8,6 +8,7 @@ Have a look at my:
 
 - [ORCID](https://orcid.org/0000-0002-8153-2978)
 - [Twitter](https://twitter.com/koenedaele)
+- [Mastodon](https://hostux.social/@koenedaele)
 
 <!--
 **koenedaele/koenedaele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
